@@ -1,4 +1,5 @@
-[
+{
+    "items": [
     {
         "id":1,
         "name":"Narrow Jeans",
@@ -50,4 +51,8 @@
         "category":"Shoes"
     }
 
-]
+],
+"profile": {
+    "name": "typicode"
+  }
+}
