@@ -1,0 +1,53 @@
+[
+    {
+        "id":1,
+        "name":"Narrow Jeans",
+        "company":"Here & Now",
+        "color":"Blue",
+        "category":"jeans"
+    },
+    {
+        "id":2,
+        "name":"Distressed Jeans",
+        "company":"Here & Now",
+        "color":"Red",
+        "category":"Jeans"
+    },
+
+    {
+        "id":3,
+        "name":"White Shirt",
+        "company":"Levis",
+        "color":"Grey",
+        "category":"Shirt"
+    },
+    {
+        "id":4,
+        "name":"Henley Tshirt",
+        "company":"Moda Rapido",
+        "color":"blue",
+        "category":"Tshirt"
+    },
+    {
+        "id":5,
+        "name":"Monk Shoes",
+        "company":"Invictus",
+        "color":"Brown",
+        "category":"Shoes"
+    },
+    {
+        "id":6,
+        "name":"Double Strap Monk Shoes",
+        "company":"Red Tape",
+        "color":"Brown",
+        "category":"Shoes"
+    },
+    {
+        "id":7,
+        "name":"Boat Shoes",
+        "company":"Vans",
+        "color":"Coffe Brown",
+        "category":"Shoes"
+    }
+
+]
