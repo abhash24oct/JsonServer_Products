@@ -5,14 +5,16 @@
         "name":"Narrow Jeans",
         "company":"Here & Now",
         "color":"Blue",
-        "category":"jeans"
+        "category":"jeans",
+        "url":"https://assets.myntassets.com/h_640,q_90,w_480/v1/assets/images/2070832/2017/9/11/11505125783717-HERENOW-Men-Grey-Skinny-Fit-Mid-Rise-Clean-Look-Stretchable-Jeans-1901505125783565-1.jpg"
     },
     {
         "id":2,
         "name":"Distressed Jeans",
         "company":"Here & Now",
         "color":"Red",
-        "category":"Jeans"
+        "category":"Jeans",
+        "url":"http://www.ayyildizbilgisayar.com/image/cache/data/category_12/buy-here-and-now-men-blue-slim-fit-mid-rise-mildly-distressed-ankle-length-jeans-jeans-4036-240x240_0.jpg"
     },
 
     {
@@ -20,7 +22,8 @@
         "name":"White Shirt",
         "company":"Levis",
         "color":"Grey",
-        "category":"Shirt"
+        "category":"Shirt",
+        "url":"https://static9.cilory.com/277296-thickbox_default/levis-white-casual-denim-shirt.jpg"
     },
     {
         "id":4,
