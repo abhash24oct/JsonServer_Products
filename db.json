@@ -30,28 +30,32 @@
         "name":"Henley Tshirt",
         "company":"Moda Rapido",
         "color":"blue",
-        "category":"Tshirt"
+        "category":"Tshirt",
+        "url":"https://assets.myntassets.com/h_640,q_90,w_480/v1/assets/images/2070832/2017/9/11/11505125783717-HERENOW-Men-Grey-Skinny-Fit-Mid-Rise-Clean-Look-Stretchable-Jeans-1901505125783565-1.jpg"
     },
     {
         "id":5,
         "name":"Monk Shoes",
         "company":"Invictus",
         "color":"Brown",
-        "category":"Shoes"
+        "category":"Shoes",
+        "url":"https://assets.myntassets.com/h_640,q_90,w_480/v1/assets/images/2070832/2017/9/11/11505125783717-HERENOW-Men-Grey-Skinny-Fit-Mid-Rise-Clean-Look-Stretchable-Jeans-1901505125783565-1.jpg"
     },
     {
         "id":6,
         "name":"Double Strap Monk Shoes",
         "company":"Red Tape",
         "color":"Brown",
-        "category":"Shoes"
+        "category":"Shoes",
+        "url":"https://assets.myntassets.com/h_640,q_90,w_480/v1/assets/images/2070832/2017/9/11/11505125783717-HERENOW-Men-Grey-Skinny-Fit-Mid-Rise-Clean-Look-Stretchable-Jeans-1901505125783565-1.jpg"
     },
     {
         "id":7,
         "name":"Boat Shoes",
         "company":"Vans",
         "color":"Coffe Brown",
-        "category":"Shoes"
+        "category":"Shoes",
+        "url":"https://assets.myntassets.com/h_640,q_90,w_480/v1/assets/images/2070832/2017/9/11/11505125783717-HERENOW-Men-Grey-Skinny-Fit-Mid-Rise-Clean-Look-Stretchable-Jeans-1901505125783565-1.jpg"
     }
 
 ],
